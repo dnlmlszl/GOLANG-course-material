@@ -86,7 +86,9 @@ func test(age int) {
 	fmt.Println("You are an adult in", yearsUntilAdult, "years")
 	fmt.Println("You can drink in", yearsUntilDrinking, "years")
 	fmt.Println("You can rent a car in", yearsUntilCarRental, "years")
+	fmt.Println("===============================")
 }
+
 
 // Early returns
 // func divide(dividend, divisor int) (int, error) {
